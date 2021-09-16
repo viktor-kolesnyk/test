@@ -1,4 +1,4 @@
 <?php
-echo "commit!";
-echo "commit!";
-echo "commit!";
+
+$product = new Product();
+$product->setPrice(11);
